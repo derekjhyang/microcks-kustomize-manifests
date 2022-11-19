@@ -1,0 +1,4 @@
+# Helm stuff
+*/charts
+requirements.lock
+Chart.lock
