@@ -1,0 +1,1 @@
+# microcks-kustomize-manifests
