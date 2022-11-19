@@ -1,0 +1,11 @@
+namespace: microcks
+
+helmCharts:
+- name: microcks
+  repo: https://microcks.io/helm
+  releaseName: my-microcks
+  valuesInline:
+    microcks:
+      url: microcks
+    keycloak:
+      url: microcks-keycloak
