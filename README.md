@@ -1,5 +1,5 @@
 # microcks-kustomize-manifests
-This repo is using kustomize to deploy microcks in your cluster
+This repo is using kustomize to deploy microcks helm charts in your cluster
 
 ## Installation
 ```
